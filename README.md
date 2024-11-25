@@ -72,8 +72,8 @@ Before building the `stacklist` project, you need to install the `birchutils` li
 
 1. Clone the stacklist repository:
    ```sh
-   git clone <stacklist-repo-url>
-   cd stacklist
+   git clone https://github.com/2001J/Custom-stacklist-data-structure
+   cd Custom-stacklist-data-structure
    ```
 
 2. Build the project:
@@ -90,7 +90,7 @@ To run the stacklist program, use the following command:
 
 ## License
 
-This project is licensed under the MIT License.
+This project is licensed under the Apache License.
 
 ## Acknowledgments
 
